@@ -1,0 +1,62 @@
+body {  
+    background-color:lightgray;
+}
+
+.bg-gray {
+    background-color:lightgray;
+}
+
+.about-me {
+    font-size: 50px;
+    font-family: georgia;
+    color: plum;
+}
+
+.contact-form {
+    margin-left:10px;
+    margin-right:10px;
+}
+
+p {
+    color: black;
+    font-family:georgia;
+}
+
+.btn-lg {
+    font-family: georgia;
+    font-size: 25px;
+}
+
+a.nav-link {
+    font-family: georgia;
+    font-size: 20px;
+}
+.contact-header {
+    font-family: georgia;
+    font-size: 50px;
+    color: plum;
+}
+
+.portfolio-header {
+    font-size: 50px;
+    font-family:georgia;
+    color:plum;
+    text-align:center;
+}
+
+h2 {
+    background-color: white;
+    color:plum;
+    font-size: 25px;
+    text-align: center;
+    font-family: georgia;
+    font-weight: bold;
+}
+
+h3 {
+    background-color: white;
+    color: plum;
+    font-size: 20px;
+    text-align: center;
+    font-family: georgia;
+}
