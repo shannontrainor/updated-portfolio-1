@@ -98,7 +98,9 @@ img {
 }
 
 .github-link {
-    color: lightcoral;
+    color:  rgb(128, 0, 100);
+    font-weight: bold;
+    font-style: italic;
 }
 .github-link:hover {
     background-color: black;
