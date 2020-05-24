@@ -1,10 +1,10 @@
-body {  
-    background-color:lightgray;
+/* body {  
+   background-color: lightgray
 }
 
 .bg-gray {
     background-color:lightgray;
-}
+} */
 
 .about-me {
     font-size: 50px;
@@ -42,7 +42,7 @@ p {
 }
 
 .btn-info {
-    background-color: lightcoral;
+    background-color: rgb(128, 0, 100);
     border-color: black;
 }
 a.nav-link {
@@ -93,7 +93,8 @@ img {
 .card-header {
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: lightcoral;
+    background-color: rgb(59, 58, 58)
+    /* background-color: rgb(104, 106, 231); */
 }
 
 .github-link {
