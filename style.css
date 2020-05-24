@@ -8,8 +8,10 @@ body {
 
 .about-me {
     font-size: 50px;
-    font-family: georgia;
-    color: plum;
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster Two', cursive;
+    color: white;
+    text-align: center;
 }
 
 .contact-form {
@@ -20,6 +22,14 @@ body {
 p {
     color: black;
     font-family:georgia;
+}
+
+.port-subheader {
+    font-size: 30px;
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster Two', cursive;
+    color:white;
+    text-align:center;
 }
 
 .btn-lg {
@@ -41,34 +51,30 @@ a.nav-link {
     font-size: 30px;
 }
 .contact-header {
-    font-family: georgia;
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster Two', cursive;;
     font-size: 50px;
-    color: plum;
+    color: white;
+    text-align: center;
 }
 
 .portfolio-header {
     font-size: 50px;
-    font-family:georgia;
-    color:plum;
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster Two', cursive;
+    color:white;
     text-align:center;
 }
 
 h2 {
     background-color: white;
-    color:plum;
+    color:white;
     font-size: 25px;
     text-align: center;
     font-family: georgia;
     font-weight: bold;
 }
 
-h3 {
-    background-color: white;
-    color: plum;
-    font-size: 20px;
-    text-align: center;
-    font-family: georgia;
-}
 
 a:hover {
     color:white;
@@ -84,4 +90,5 @@ img {
 .card-header {
     padding-top: 5px;
     padding-bottom: 5px;
+    background-color: lightcoral;
 }
