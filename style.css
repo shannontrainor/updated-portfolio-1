@@ -22,7 +22,8 @@
 
 p {
     color: black;
-    font-family:georgia;
+    font-family: 'Overlock', cursive;
+
 }
 
 .port-subheader {
@@ -78,10 +79,11 @@ h2 {
 
 a {
     font-family: 'Overlock', cursive;
+    color:  rgb(128, 0, 100);
 }
 
 a:hover {
-    color:white;
+    color:black;
 }
 
 img {
