@@ -75,6 +75,9 @@ h2 {
     font-weight: bold;
 }
 
+a {
+    font-family: 'Overlock', cursive;
+}
 
 a:hover {
     color:white;
@@ -101,10 +104,10 @@ img {
 }
 
 .card-title {
-    font-family: 'Marmelad', sans-serif;
+    font-family: 'Overlock', cursive;
     font-weight: bold;
 }
 
 .card-text {
-    font-family: 'Marmelad', sans-serif;
+    font-family: 'Overlock', cursive;
 }
