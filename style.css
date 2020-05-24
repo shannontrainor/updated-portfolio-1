@@ -12,6 +12,7 @@
     font-family: 'Lobster Two', cursive;
     color: white;
     text-align: center;
+    border: solid, black;
 }
 
 .contact-form {
@@ -93,7 +94,8 @@ img {
 .card-header {
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: rgb(59, 58, 58)
+    background-color: rgb(59, 58, 58);
+    border: solid, black;
     /* background-color: rgb(104, 106, 231); */
 }
 
