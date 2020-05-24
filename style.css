@@ -92,3 +92,10 @@ img {
     padding-bottom: 5px;
     background-color: lightcoral;
 }
+
+.pw-gen {
+    color: lightcoral;
+}
+.pw-gen:hover {
+    background-color: black;
+}
