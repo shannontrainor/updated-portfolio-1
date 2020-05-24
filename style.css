@@ -93,9 +93,18 @@ img {
     background-color: lightcoral;
 }
 
-.pw-gen {
+.github-link {
     color: lightcoral;
 }
-.pw-gen:hover {
+.github-link:hover {
     background-color: black;
+}
+
+.card-title {
+    font-family: 'Marmelad', sans-serif;
+    font-weight: bold;
+}
+
+.card-text {
+    font-family: 'Marmelad', sans-serif;
 }
