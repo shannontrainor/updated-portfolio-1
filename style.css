@@ -23,13 +23,22 @@ p {
 }
 
 .btn-lg {
-    font-family: georgia;
-    font-size: 25px;
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
 }
 
+.btn-info {
+    background-color: lightcoral;
+    border-color: black;
+}
 a.nav-link {
-    font-family: georgia;
-    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
 }
 .contact-header {
     font-family: georgia;
