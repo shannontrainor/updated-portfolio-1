@@ -73,3 +73,15 @@ h3 {
 a:hover {
     color:white;
 }
+
+img {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+
+}
+
+.card-header {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
