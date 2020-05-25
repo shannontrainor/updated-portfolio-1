@@ -1,4 +1,4 @@
-### Updated Portfolio
+# Updated Portfolio
 
 ## Description
 Responsive Portfolio from week 2 has been updated to include examples of recent projects and homeworks. Descriptions, screenshots, GitHub links, and depolyed links have been provided for each project. A contact page with personal contact information has also been updated.
